@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="local server" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="dev" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs>
+      <env name="POSTGRES_URL" value="postgresql://postgres:postgres@localhost:5432/postgres?schema=public" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
