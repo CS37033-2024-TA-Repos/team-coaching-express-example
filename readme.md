@@ -111,6 +111,8 @@ of data to the server)
 - DELETE (e.g., remove the resource)
 - PATCH (e.g., apply some sort of partial modification to the resource)
 
+![Frontend Backend Diagram](frontend-backend-diagram.png?raw=true "Flow of Data between Frontend and Backend")
+
 For more information on HTTP, see https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 ### Using HTTP
